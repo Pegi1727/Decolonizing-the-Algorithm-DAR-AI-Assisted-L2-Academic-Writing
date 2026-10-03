@@ -1,0 +1,16 @@
+Variable,Description,Type,Role
+Participant,Participant identifier; check whether it is non-identifying before public release.,object,Identifier
+Pre_Density,Prompting density at Pre-test,float64,Outcome
+Post_Density,Prompting density at Post-test,float64,Outcome
+Pre_Length,Mean prompt length at Pre-test,float64,Outcome
+Post_Length,Mean prompt length at Post-test,float64,Outcome
+Pre_Rejection,AI-suggestion rejection rate at Pre-test,float64,Outcome
+Post_Rejection,AI-suggestion rejection rate at Post-test,float64,Outcome
+Pre_Stance,Stance marking at Pre-test,float64,Outcome
+Post_Stance,Stance marking at Post-test,float64,Outcome
+Pre_Lexical,Lexical agency at Pre-test,float64,Outcome
+Post_Lexical,Lexical agency at Post-test,float64,Outcome
+Pre_Consistency,Voice consistency at Pre-test,float64,Outcome
+Post_Consistency,Voice consistency at Post-test,float64,Outcome
+Pre_Critical,Critical dialogue at Pre-test,float64,Outcome
+Post_Critical,Critical dialogue at Post-test,float64,Outcome
