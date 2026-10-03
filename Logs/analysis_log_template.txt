@@ -1,0 +1,21 @@
+DAR ANALYSIS RUN LOG — TEMPLATE
+
+Project: Decolonizing the Algorithm (DAR) in AI-Assisted L2 Academic Writing
+Run date/time (include timezone):
+Operator:
+Repository commit / version:
+Operating system:
+Python version:
+R version (if used):
+Input data file:
+Script or notebook:
+Command executed:
+
+Outcome:
+- Completed / Failed / Partially completed
+
+Outputs created:
+Warnings or errors:
+Notes:
+
+This is a blank template. Complete it only after a real run; do not report unperformed steps as completed.
