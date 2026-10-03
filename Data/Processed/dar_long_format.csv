@@ -1,0 +1,981 @@
+Participant,Measure,Timepoint,Score
+P01,Prompting density,Pre-test,2.5
+P01,Prompting density,Post-test,6.3
+P01,Mean prompt length,Pre-test,9.5
+P01,Mean prompt length,Post-test,50.3
+P01,AI-suggestion rejection rate,Pre-test,12.3
+P01,AI-suggestion rejection rate,Post-test,46.6
+P01,Stance marking,Pre-test,3.72
+P01,Stance marking,Post-test,4.0
+P01,Lexical agency,Pre-test,1.32
+P01,Lexical agency,Post-test,2.67
+P01,Voice consistency,Pre-test,1.71
+P01,Voice consistency,Post-test,1.19
+P01,Critical dialogue,Pre-test,1.0
+P01,Critical dialogue,Post-test,2.82
+P02,Prompting density,Pre-test,1.0
+P02,Prompting density,Post-test,2.9
+P02,Mean prompt length,Pre-test,14.4
+P02,Mean prompt length,Post-test,41.4
+P02,AI-suggestion rejection rate,Pre-test,19.7
+P02,AI-suggestion rejection rate,Post-test,46.9
+P02,Stance marking,Pre-test,2.48
+P02,Stance marking,Post-test,2.49
+P02,Lexical agency,Pre-test,1.5
+P02,Lexical agency,Post-test,3.37
+P02,Voice consistency,Pre-test,2.27
+P02,Voice consistency,Post-test,2.14
+P02,Critical dialogue,Pre-test,1.01
+P02,Critical dialogue,Post-test,1.0
+P03,Prompting density,Pre-test,2.1
+P03,Prompting density,Post-test,7.4
+P03,Mean prompt length,Pre-test,6.9
+P03,Mean prompt length,Post-test,51.8
+P03,AI-suggestion rejection rate,Pre-test,20.5
+P03,AI-suggestion rejection rate,Post-test,64.2
+P03,Stance marking,Pre-test,2.64
+P03,Stance marking,Post-test,3.24
+P03,Lexical agency,Pre-test,1.79
+P03,Lexical agency,Post-test,2.91
+P03,Voice consistency,Pre-test,1.34
+P03,Voice consistency,Post-test,1.41
+P03,Critical dialogue,Pre-test,1.0
+P03,Critical dialogue,Post-test,3.0
+P04,Prompting density,Pre-test,3.0
+P04,Prompting density,Post-test,6.2
+P04,Mean prompt length,Pre-test,11.5
+P04,Mean prompt length,Post-test,35.3
+P04,AI-suggestion rejection rate,Pre-test,8.9
+P04,AI-suggestion rejection rate,Post-test,31.5
+P04,Stance marking,Pre-test,2.4
+P04,Stance marking,Post-test,3.6
+P04,Lexical agency,Pre-test,1.0
+P04,Lexical agency,Post-test,2.67
+P04,Voice consistency,Pre-test,2.96
+P04,Voice consistency,Post-test,4.0
+P04,Critical dialogue,Pre-test,1.0
+P04,Critical dialogue,Post-test,3.16
+P05,Prompting density,Pre-test,1.4
+P05,Prompting density,Post-test,4.0
+P05,Mean prompt length,Pre-test,21.8
+P05,Mean prompt length,Post-test,40.4
+P05,AI-suggestion rejection rate,Pre-test,14.6
+P05,AI-suggestion rejection rate,Post-test,52.9
+P05,Stance marking,Pre-test,2.49
+P05,Stance marking,Post-test,3.43
+P05,Lexical agency,Pre-test,2.38
+P05,Lexical agency,Post-test,4.0
+P05,Voice consistency,Pre-test,3.01
+P05,Voice consistency,Post-test,3.08
+P05,Critical dialogue,Pre-test,2.35
+P05,Critical dialogue,Post-test,4.0
+P06,Prompting density,Pre-test,2.0
+P06,Prompting density,Post-test,5.8
+P06,Mean prompt length,Pre-test,7.2
+P06,Mean prompt length,Post-test,22.9
+P06,AI-suggestion rejection rate,Pre-test,21.2
+P06,AI-suggestion rejection rate,Post-test,44.0
+P06,Stance marking,Pre-test,1.91
+P06,Stance marking,Post-test,3.65
+P06,Lexical agency,Pre-test,1.54
+P06,Lexical agency,Post-test,1.74
+P06,Voice consistency,Pre-test,2.35
+P06,Voice consistency,Post-test,3.79
+P06,Critical dialogue,Pre-test,1.0
+P06,Critical dialogue,Post-test,3.62
+P07,Prompting density,Pre-test,2.6
+P07,Prompting density,Post-test,8.7
+P07,Mean prompt length,Pre-test,13.0
+P07,Mean prompt length,Post-test,29.3
+P07,AI-suggestion rejection rate,Pre-test,21.2
+P07,AI-suggestion rejection rate,Post-test,76.3
+P07,Stance marking,Pre-test,1.59
+P07,Stance marking,Post-test,2.75
+P07,Lexical agency,Pre-test,1.8
+P07,Lexical agency,Post-test,3.63
+P07,Voice consistency,Pre-test,2.28
+P07,Voice consistency,Post-test,3.69
+P07,Critical dialogue,Pre-test,2.45
+P07,Critical dialogue,Post-test,4.0
+P08,Prompting density,Pre-test,4.6
+P08,Prompting density,Post-test,8.9
+P08,Mean prompt length,Pre-test,16.7
+P08,Mean prompt length,Post-test,45.5
+P08,AI-suggestion rejection rate,Pre-test,13.2
+P08,AI-suggestion rejection rate,Post-test,79.9
+P08,Stance marking,Pre-test,2.46
+P08,Stance marking,Post-test,2.92
+P08,Lexical agency,Pre-test,2.29
+P08,Lexical agency,Post-test,3.98
+P08,Voice consistency,Pre-test,2.48
+P08,Voice consistency,Post-test,3.45
+P08,Critical dialogue,Pre-test,1.0
+P08,Critical dialogue,Post-test,1.08
+P09,Prompting density,Pre-test,3.2
+P09,Prompting density,Post-test,7.2
+P09,Mean prompt length,Pre-test,11.1
+P09,Mean prompt length,Post-test,64.6
+P09,AI-suggestion rejection rate,Pre-test,20.4
+P09,AI-suggestion rejection rate,Post-test,68.1
+P09,Stance marking,Pre-test,1.0
+P09,Stance marking,Post-test,2.32
+P09,Lexical agency,Pre-test,1.54
+P09,Lexical agency,Post-test,1.08
+P09,Voice consistency,Pre-test,2.12
+P09,Voice consistency,Post-test,1.84
+P09,Critical dialogue,Pre-test,2.04
+P09,Critical dialogue,Post-test,4.0
+P10,Prompting density,Pre-test,2.1
+P10,Prompting density,Post-test,4.3
+P10,Mean prompt length,Pre-test,16.3
+P10,Mean prompt length,Post-test,56.6
+P10,AI-suggestion rejection rate,Pre-test,16.9
+P10,AI-suggestion rejection rate,Post-test,88.8
+P10,Stance marking,Pre-test,2.54
+P10,Stance marking,Post-test,3.38
+P10,Lexical agency,Pre-test,2.7
+P10,Lexical agency,Post-test,2.45
+P10,Voice consistency,Pre-test,1.77
+P10,Voice consistency,Post-test,2.64
+P10,Critical dialogue,Pre-test,1.0
+P10,Critical dialogue,Post-test,3.48
+P11,Prompting density,Pre-test,1.4
+P11,Prompting density,Post-test,7.8
+P11,Mean prompt length,Pre-test,13.9
+P11,Mean prompt length,Post-test,48.2
+P11,AI-suggestion rejection rate,Pre-test,10.2
+P11,AI-suggestion rejection rate,Post-test,55.2
+P11,Stance marking,Pre-test,2.42
+P11,Stance marking,Post-test,3.61
+P11,Lexical agency,Pre-test,1.0
+P11,Lexical agency,Post-test,2.59
+P11,Voice consistency,Pre-test,2.72
+P11,Voice consistency,Post-test,4.0
+P11,Critical dialogue,Pre-test,2.45
+P11,Critical dialogue,Post-test,1.93
+P12,Prompting density,Pre-test,2.2
+P12,Prompting density,Post-test,7.1
+P12,Mean prompt length,Pre-test,9.5
+P12,Mean prompt length,Post-test,35.4
+P12,AI-suggestion rejection rate,Pre-test,23.5
+P12,AI-suggestion rejection rate,Post-test,83.1
+P12,Stance marking,Pre-test,1.75
+P12,Stance marking,Post-test,2.92
+P12,Lexical agency,Pre-test,2.27
+P12,Lexical agency,Post-test,2.23
+P12,Voice consistency,Pre-test,1.76
+P12,Voice consistency,Post-test,2.65
+P12,Critical dialogue,Pre-test,1.0
+P12,Critical dialogue,Post-test,2.95
+P13,Prompting density,Pre-test,2.5
+P13,Prompting density,Post-test,8.5
+P13,Mean prompt length,Pre-test,8.8
+P13,Mean prompt length,Post-test,38.5
+P13,AI-suggestion rejection rate,Pre-test,12.9
+P13,AI-suggestion rejection rate,Post-test,48.7
+P13,Stance marking,Pre-test,2.21
+P13,Stance marking,Post-test,3.57
+P13,Lexical agency,Pre-test,2.05
+P13,Lexical agency,Post-test,3.67
+P13,Voice consistency,Pre-test,2.45
+P13,Voice consistency,Post-test,3.89
+P13,Critical dialogue,Pre-test,1.51
+P13,Critical dialogue,Post-test,3.8
+P14,Prompting density,Pre-test,3.3
+P14,Prompting density,Post-test,9.5
+P14,Mean prompt length,Pre-test,12.8
+P14,Mean prompt length,Post-test,37.9
+P14,AI-suggestion rejection rate,Pre-test,14.4
+P14,AI-suggestion rejection rate,Post-test,68.0
+P14,Stance marking,Pre-test,1.64
+P14,Stance marking,Post-test,2.27
+P14,Lexical agency,Pre-test,2.1
+P14,Lexical agency,Post-test,3.8
+P14,Voice consistency,Pre-test,2.96
+P14,Voice consistency,Post-test,4.0
+P14,Critical dialogue,Pre-test,1.35
+P14,Critical dialogue,Post-test,3.46
+P15,Prompting density,Pre-test,2.1
+P15,Prompting density,Post-test,3.9
+P15,Mean prompt length,Pre-test,4.8
+P15,Mean prompt length,Post-test,33.8
+P15,AI-suggestion rejection rate,Pre-test,7.1
+P15,AI-suggestion rejection rate,Post-test,69.4
+P15,Stance marking,Pre-test,1.54
+P15,Stance marking,Post-test,2.56
+P15,Lexical agency,Pre-test,2.17
+P15,Lexical agency,Post-test,3.86
+P15,Voice consistency,Pre-test,1.48
+P15,Voice consistency,Post-test,3.23
+P15,Critical dialogue,Pre-test,1.19
+P15,Critical dialogue,Post-test,3.5
+P16,Prompting density,Pre-test,3.1
+P16,Prompting density,Post-test,7.9
+P16,Mean prompt length,Pre-test,6.9
+P16,Mean prompt length,Post-test,41.9
+P16,AI-suggestion rejection rate,Pre-test,12.5
+P16,AI-suggestion rejection rate,Post-test,67.9
+P16,Stance marking,Pre-test,2.67
+P16,Stance marking,Post-test,3.6
+P16,Lexical agency,Pre-test,1.2
+P16,Lexical agency,Post-test,2.77
+P16,Voice consistency,Pre-test,2.11
+P16,Voice consistency,Post-test,3.21
+P16,Critical dialogue,Pre-test,2.33
+P16,Critical dialogue,Post-test,1.59
+P17,Prompting density,Pre-test,3.3
+P17,Prompting density,Post-test,8.0
+P17,Mean prompt length,Pre-test,12.8
+P17,Mean prompt length,Post-test,52.3
+P17,AI-suggestion rejection rate,Pre-test,11.4
+P17,AI-suggestion rejection rate,Post-test,77.3
+P17,Stance marking,Pre-test,2.21
+P17,Stance marking,Post-test,1.52
+P17,Lexical agency,Pre-test,1.14
+P17,Lexical agency,Post-test,3.21
+P17,Voice consistency,Pre-test,2.21
+P17,Voice consistency,Post-test,2.61
+P17,Critical dialogue,Pre-test,2.04
+P17,Critical dialogue,Post-test,1.92
+P18,Prompting density,Pre-test,2.3
+P18,Prompting density,Post-test,3.1
+P18,Mean prompt length,Pre-test,7.1
+P18,Mean prompt length,Post-test,36.5
+P18,AI-suggestion rejection rate,Pre-test,6.1
+P18,AI-suggestion rejection rate,Post-test,58.7
+P18,Stance marking,Pre-test,3.29
+P18,Stance marking,Post-test,3.79
+P18,Lexical agency,Pre-test,1.96
+P18,Lexical agency,Post-test,3.48
+P18,Voice consistency,Pre-test,1.0
+P18,Voice consistency,Post-test,1.4
+P18,Critical dialogue,Pre-test,1.36
+P18,Critical dialogue,Post-test,3.16
+P19,Prompting density,Pre-test,3.0
+P19,Prompting density,Post-test,7.1
+P19,Mean prompt length,Pre-test,11.0
+P19,Mean prompt length,Post-test,50.5
+P19,AI-suggestion rejection rate,Pre-test,17.2
+P19,AI-suggestion rejection rate,Post-test,68.7
+P19,Stance marking,Pre-test,3.66
+P19,Stance marking,Post-test,4.0
+P19,Lexical agency,Pre-test,2.55
+P19,Lexical agency,Post-test,3.73
+P19,Voice consistency,Pre-test,1.9
+P19,Voice consistency,Post-test,3.01
+P19,Critical dialogue,Pre-test,1.68
+P19,Critical dialogue,Post-test,1.0
+P20,Prompting density,Pre-test,2.2
+P20,Prompting density,Post-test,5.1
+P20,Mean prompt length,Pre-test,7.1
+P20,Mean prompt length,Post-test,39.4
+P20,AI-suggestion rejection rate,Pre-test,11.4
+P20,AI-suggestion rejection rate,Post-test,64.2
+P20,Stance marking,Pre-test,2.51
+P20,Stance marking,Post-test,3.26
+P20,Lexical agency,Pre-test,1.18
+P20,Lexical agency,Post-test,3.06
+P20,Voice consistency,Pre-test,2.24
+P20,Voice consistency,Post-test,3.3
+P20,Critical dialogue,Pre-test,1.97
+P20,Critical dialogue,Post-test,4.0
+P21,Prompting density,Pre-test,2.5
+P21,Prompting density,Post-test,3.0
+P21,Mean prompt length,Pre-test,17.0
+P21,Mean prompt length,Post-test,46.2
+P21,AI-suggestion rejection rate,Pre-test,19.6
+P21,AI-suggestion rejection rate,Post-test,88.1
+P21,Stance marking,Pre-test,2.28
+P21,Stance marking,Post-test,2.22
+P21,Lexical agency,Pre-test,1.0
+P21,Lexical agency,Post-test,1.0
+P21,Voice consistency,Pre-test,1.43
+P21,Voice consistency,Post-test,1.0
+P21,Critical dialogue,Pre-test,1.22
+P21,Critical dialogue,Post-test,3.4
+P22,Prompting density,Pre-test,1.4
+P22,Prompting density,Post-test,6.1
+P22,Mean prompt length,Pre-test,15.6
+P22,Mean prompt length,Post-test,53.0
+P22,AI-suggestion rejection rate,Pre-test,13.5
+P22,AI-suggestion rejection rate,Post-test,69.6
+P22,Stance marking,Pre-test,3.12
+P22,Stance marking,Post-test,3.62
+P22,Lexical agency,Pre-test,1.87
+P22,Lexical agency,Post-test,3.57
+P22,Voice consistency,Pre-test,2.8
+P22,Voice consistency,Post-test,3.74
+P22,Critical dialogue,Pre-test,1.92
+P22,Critical dialogue,Post-test,3.94
+P23,Prompting density,Pre-test,2.5
+P23,Prompting density,Post-test,5.7
+P23,Mean prompt length,Pre-test,13.8
+P23,Mean prompt length,Post-test,41.7
+P23,AI-suggestion rejection rate,Pre-test,20.7
+P23,AI-suggestion rejection rate,Post-test,77.9
+P23,Stance marking,Pre-test,1.08
+P23,Stance marking,Post-test,1.99
+P23,Lexical agency,Pre-test,1.85
+P23,Lexical agency,Post-test,3.5
+P23,Voice consistency,Pre-test,3.2
+P23,Voice consistency,Post-test,2.91
+P23,Critical dialogue,Pre-test,2.04
+P23,Critical dialogue,Post-test,4.0
+P24,Prompting density,Pre-test,3.1
+P24,Prompting density,Post-test,6.5
+P24,Mean prompt length,Pre-test,12.8
+P24,Mean prompt length,Post-test,46.6
+P24,AI-suggestion rejection rate,Pre-test,15.3
+P24,AI-suggestion rejection rate,Post-test,68.6
+P24,Stance marking,Pre-test,1.4
+P24,Stance marking,Post-test,1.42
+P24,Lexical agency,Pre-test,2.26
+P24,Lexical agency,Post-test,4.0
+P24,Voice consistency,Pre-test,3.09
+P24,Voice consistency,Post-test,3.35
+P24,Critical dialogue,Pre-test,1.04
+P24,Critical dialogue,Post-test,1.0
+P25,Prompting density,Pre-test,2.9
+P25,Prompting density,Post-test,7.5
+P25,Mean prompt length,Pre-test,9.9
+P25,Mean prompt length,Post-test,42.7
+P25,AI-suggestion rejection rate,Pre-test,14.1
+P25,AI-suggestion rejection rate,Post-test,82.0
+P25,Stance marking,Pre-test,2.02
+P25,Stance marking,Post-test,3.18
+P25,Lexical agency,Pre-test,2.5
+P25,Lexical agency,Post-test,4.0
+P25,Voice consistency,Pre-test,3.45
+P25,Voice consistency,Post-test,3.95
+P25,Critical dialogue,Pre-test,1.0
+P25,Critical dialogue,Post-test,1.0
+P26,Prompting density,Pre-test,2.3
+P26,Prompting density,Post-test,6.0
+P26,Mean prompt length,Pre-test,7.4
+P26,Mean prompt length,Post-test,50.8
+P26,AI-suggestion rejection rate,Pre-test,14.0
+P26,AI-suggestion rejection rate,Post-test,28.9
+P26,Stance marking,Pre-test,2.33
+P26,Stance marking,Post-test,3.49
+P26,Lexical agency,Pre-test,2.04
+P26,Lexical agency,Post-test,1.99
+P26,Voice consistency,Pre-test,2.02
+P26,Voice consistency,Post-test,3.0
+P26,Critical dialogue,Pre-test,1.6
+P26,Critical dialogue,Post-test,3.52
+P27,Prompting density,Pre-test,3.2
+P27,Prompting density,Post-test,7.4
+P27,Mean prompt length,Pre-test,20.5
+P27,Mean prompt length,Post-test,52.7
+P27,AI-suggestion rejection rate,Pre-test,10.8
+P27,AI-suggestion rejection rate,Post-test,51.5
+P27,Stance marking,Pre-test,2.2
+P27,Stance marking,Post-test,2.35
+P27,Lexical agency,Pre-test,1.41
+P27,Lexical agency,Post-test,3.32
+P27,Voice consistency,Pre-test,2.91
+P27,Voice consistency,Post-test,4.0
+P27,Critical dialogue,Pre-test,1.0
+P27,Critical dialogue,Post-test,1.0
+P28,Prompting density,Pre-test,2.1
+P28,Prompting density,Post-test,3.7
+P28,Mean prompt length,Pre-test,14.5
+P28,Mean prompt length,Post-test,51.0
+P28,AI-suggestion rejection rate,Pre-test,12.5
+P28,AI-suggestion rejection rate,Post-test,63.5
+P28,Stance marking,Pre-test,2.21
+P28,Stance marking,Post-test,2.74
+P28,Lexical agency,Pre-test,1.99
+P28,Lexical agency,Post-test,2.25
+P28,Voice consistency,Pre-test,2.4
+P28,Voice consistency,Post-test,3.21
+P28,Critical dialogue,Pre-test,1.66
+P28,Critical dialogue,Post-test,3.88
+P29,Prompting density,Pre-test,2.3
+P29,Prompting density,Post-test,7.0
+P29,Mean prompt length,Pre-test,11.4
+P29,Mean prompt length,Post-test,34.1
+P29,AI-suggestion rejection rate,Pre-test,19.1
+P29,AI-suggestion rejection rate,Post-test,71.3
+P29,Stance marking,Pre-test,2.58
+P29,Stance marking,Post-test,3.54
+P29,Lexical agency,Pre-test,1.0
+P29,Lexical agency,Post-test,2.73
+P29,Voice consistency,Pre-test,1.46
+P29,Voice consistency,Post-test,2.32
+P29,Critical dialogue,Pre-test,1.23
+P29,Critical dialogue,Post-test,3.84
+P30,Prompting density,Pre-test,1.5
+P30,Prompting density,Post-test,4.5
+P30,Mean prompt length,Pre-test,13.8
+P30,Mean prompt length,Post-test,44.5
+P30,AI-suggestion rejection rate,Pre-test,19.1
+P30,AI-suggestion rejection rate,Post-test,46.9
+P30,Stance marking,Pre-test,2.14
+P30,Stance marking,Post-test,2.45
+P30,Lexical agency,Pre-test,1.57
+P30,Lexical agency,Post-test,1.0
+P30,Voice consistency,Pre-test,1.63
+P30,Voice consistency,Post-test,2.32
+P30,Critical dialogue,Pre-test,2.01
+P30,Critical dialogue,Post-test,4.0
+P31,Prompting density,Pre-test,3.0
+P31,Prompting density,Post-test,4.9
+P31,Mean prompt length,Pre-test,15.8
+P31,Mean prompt length,Post-test,61.9
+P31,AI-suggestion rejection rate,Pre-test,14.3
+P31,AI-suggestion rejection rate,Post-test,87.9
+P31,Stance marking,Pre-test,2.48
+P31,Stance marking,Post-test,3.2
+P31,Lexical agency,Pre-test,1.27
+P31,Lexical agency,Post-test,1.0
+P31,Voice consistency,Pre-test,1.96
+P31,Voice consistency,Post-test,1.42
+P31,Critical dialogue,Pre-test,1.95
+P31,Critical dialogue,Post-test,3.72
+P32,Prompting density,Pre-test,2.2
+P32,Prompting density,Post-test,5.2
+P32,Mean prompt length,Pre-test,17.3
+P32,Mean prompt length,Post-test,63.8
+P32,AI-suggestion rejection rate,Pre-test,14.6
+P32,AI-suggestion rejection rate,Post-test,67.5
+P32,Stance marking,Pre-test,2.3
+P32,Stance marking,Post-test,3.31
+P32,Lexical agency,Pre-test,1.0
+P32,Lexical agency,Post-test,1.0
+P32,Voice consistency,Pre-test,1.13
+P32,Voice consistency,Post-test,1.94
+P32,Critical dialogue,Pre-test,2.67
+P32,Critical dialogue,Post-test,3.09
+P33,Prompting density,Pre-test,2.7
+P33,Prompting density,Post-test,7.3
+P33,Mean prompt length,Pre-test,18.8
+P33,Mean prompt length,Post-test,58.6
+P33,AI-suggestion rejection rate,Pre-test,8.2
+P33,AI-suggestion rejection rate,Post-test,50.1
+P33,Stance marking,Pre-test,1.8
+P33,Stance marking,Post-test,2.98
+P33,Lexical agency,Pre-test,2.02
+P33,Lexical agency,Post-test,3.34
+P33,Voice consistency,Pre-test,2.19
+P33,Voice consistency,Post-test,3.34
+P33,Critical dialogue,Pre-test,2.16
+P33,Critical dialogue,Post-test,3.89
+P34,Prompting density,Pre-test,2.6
+P34,Prompting density,Post-test,3.9
+P34,Mean prompt length,Pre-test,15.0
+P34,Mean prompt length,Post-test,42.6
+P34,AI-suggestion rejection rate,Pre-test,12.5
+P34,AI-suggestion rejection rate,Post-test,83.8
+P34,Stance marking,Pre-test,1.65
+P34,Stance marking,Post-test,2.56
+P34,Lexical agency,Pre-test,1.71
+P34,Lexical agency,Post-test,1.97
+P34,Voice consistency,Pre-test,2.22
+P34,Voice consistency,Post-test,3.67
+P34,Critical dialogue,Pre-test,1.72
+P34,Critical dialogue,Post-test,4.0
+P35,Prompting density,Pre-test,2.5
+P35,Prompting density,Post-test,7.0
+P35,Mean prompt length,Pre-test,8.7
+P35,Mean prompt length,Post-test,33.7
+P35,AI-suggestion rejection rate,Pre-test,12.3
+P35,AI-suggestion rejection rate,Post-test,76.9
+P35,Stance marking,Pre-test,1.53
+P35,Stance marking,Post-test,1.94
+P35,Lexical agency,Pre-test,1.96
+P35,Lexical agency,Post-test,3.85
+P35,Voice consistency,Pre-test,3.93
+P35,Voice consistency,Post-test,3.56
+P35,Critical dialogue,Pre-test,1.03
+P35,Critical dialogue,Post-test,1.41
+P36,Prompting density,Pre-test,2.7
+P36,Prompting density,Post-test,5.6
+P36,Mean prompt length,Pre-test,12.3
+P36,Mean prompt length,Post-test,37.1
+P36,AI-suggestion rejection rate,Pre-test,8.4
+P36,AI-suggestion rejection rate,Post-test,36.2
+P36,Stance marking,Pre-test,2.39
+P36,Stance marking,Post-test,3.65
+P36,Lexical agency,Pre-test,2.43
+P36,Lexical agency,Post-test,4.0
+P36,Voice consistency,Pre-test,2.38
+P36,Voice consistency,Post-test,1.94
+P36,Critical dialogue,Pre-test,1.0
+P36,Critical dialogue,Post-test,3.66
+P37,Prompting density,Pre-test,3.0
+P37,Prompting density,Post-test,9.3
+P37,Mean prompt length,Pre-test,14.0
+P37,Mean prompt length,Post-test,41.5
+P37,AI-suggestion rejection rate,Pre-test,21.0
+P37,AI-suggestion rejection rate,Post-test,38.1
+P37,Stance marking,Pre-test,2.03
+P37,Stance marking,Post-test,2.77
+P37,Lexical agency,Pre-test,2.27
+P37,Lexical agency,Post-test,4.0
+P37,Voice consistency,Pre-test,3.03
+P37,Voice consistency,Post-test,3.53
+P37,Critical dialogue,Pre-test,1.72
+P37,Critical dialogue,Post-test,4.0
+P38,Prompting density,Pre-test,2.4
+P38,Prompting density,Post-test,7.0
+P38,Mean prompt length,Pre-test,11.7
+P38,Mean prompt length,Post-test,48.4
+P38,AI-suggestion rejection rate,Pre-test,14.0
+P38,AI-suggestion rejection rate,Post-test,51.0
+P38,Stance marking,Pre-test,3.24
+P38,Stance marking,Post-test,3.74
+P38,Lexical agency,Pre-test,1.0
+P38,Lexical agency,Post-test,1.35
+P38,Voice consistency,Pre-test,2.54
+P38,Voice consistency,Post-test,2.67
+P38,Critical dialogue,Pre-test,2.2
+P38,Critical dialogue,Post-test,3.91
+P39,Prompting density,Pre-test,2.9
+P39,Prompting density,Post-test,6.9
+P39,Mean prompt length,Pre-test,12.3
+P39,Mean prompt length,Post-test,38.2
+P39,AI-suggestion rejection rate,Pre-test,14.4
+P39,AI-suggestion rejection rate,Post-test,77.5
+P39,Stance marking,Pre-test,2.24
+P39,Stance marking,Post-test,3.47
+P39,Lexical agency,Pre-test,1.1
+P39,Lexical agency,Post-test,2.89
+P39,Voice consistency,Pre-test,1.79
+P39,Voice consistency,Post-test,2.78
+P39,Critical dialogue,Pre-test,1.94
+P39,Critical dialogue,Post-test,4.0
+P40,Prompting density,Pre-test,2.6
+P40,Prompting density,Post-test,7.4
+P40,Mean prompt length,Pre-test,1.0
+P40,Mean prompt length,Post-test,23.7
+P40,AI-suggestion rejection rate,Pre-test,18.9
+P40,AI-suggestion rejection rate,Post-test,81.5
+P40,Stance marking,Pre-test,3.3
+P40,Stance marking,Post-test,3.8
+P40,Lexical agency,Pre-test,1.3
+P40,Lexical agency,Post-test,1.41
+P40,Voice consistency,Pre-test,1.62
+P40,Voice consistency,Post-test,3.08
+P40,Critical dialogue,Pre-test,1.32
+P40,Critical dialogue,Post-test,3.41
+P41,Prompting density,Pre-test,2.9
+P41,Prompting density,Post-test,5.6
+P41,Mean prompt length,Pre-test,18.7
+P41,Mean prompt length,Post-test,39.9
+P41,AI-suggestion rejection rate,Pre-test,10.4
+P41,AI-suggestion rejection rate,Post-test,65.7
+P41,Stance marking,Pre-test,1.5
+P41,Stance marking,Post-test,2.45
+P41,Lexical agency,Pre-test,2.49
+P41,Lexical agency,Post-test,4.0
+P41,Voice consistency,Pre-test,1.86
+P41,Voice consistency,Post-test,1.86
+P41,Critical dialogue,Pre-test,1.07
+P41,Critical dialogue,Post-test,3.36
+P42,Prompting density,Pre-test,2.3
+P42,Prompting density,Post-test,6.5
+P42,Mean prompt length,Pre-test,11.4
+P42,Mean prompt length,Post-test,37.1
+P42,AI-suggestion rejection rate,Pre-test,18.4
+P42,AI-suggestion rejection rate,Post-test,81.0
+P42,Stance marking,Pre-test,2.22
+P42,Stance marking,Post-test,3.42
+P42,Lexical agency,Pre-test,2.7
+P42,Lexical agency,Post-test,4.0
+P42,Voice consistency,Pre-test,2.0
+P42,Voice consistency,Post-test,2.74
+P42,Critical dialogue,Pre-test,2.1
+P42,Critical dialogue,Post-test,1.7
+P43,Prompting density,Pre-test,3.2
+P43,Prompting density,Post-test,6.4
+P43,Mean prompt length,Pre-test,18.9
+P43,Mean prompt length,Post-test,31.1
+P43,AI-suggestion rejection rate,Pre-test,3.7
+P43,AI-suggestion rejection rate,Post-test,50.9
+P43,Stance marking,Pre-test,1.42
+P43,Stance marking,Post-test,2.51
+P43,Lexical agency,Pre-test,1.24
+P43,Lexical agency,Post-test,2.9
+P43,Voice consistency,Pre-test,2.9
+P43,Voice consistency,Post-test,3.72
+P43,Critical dialogue,Pre-test,1.56
+P43,Critical dialogue,Post-test,3.43
+P44,Prompting density,Pre-test,2.9
+P44,Prompting density,Post-test,5.6
+P44,Mean prompt length,Pre-test,15.8
+P44,Mean prompt length,Post-test,33.7
+P44,AI-suggestion rejection rate,Pre-test,12.1
+P44,AI-suggestion rejection rate,Post-test,80.3
+P44,Stance marking,Pre-test,2.1
+P44,Stance marking,Post-test,3.24
+P44,Lexical agency,Pre-test,1.24
+P44,Lexical agency,Post-test,1.26
+P44,Voice consistency,Pre-test,2.95
+P44,Voice consistency,Post-test,4.0
+P44,Critical dialogue,Pre-test,1.0
+P44,Critical dialogue,Post-test,3.12
+P45,Prompting density,Pre-test,1.9
+P45,Prompting density,Post-test,5.8
+P45,Mean prompt length,Pre-test,13.7
+P45,Mean prompt length,Post-test,36.9
+P45,AI-suggestion rejection rate,Pre-test,4.9
+P45,AI-suggestion rejection rate,Post-test,68.0
+P45,Stance marking,Pre-test,2.72
+P45,Stance marking,Post-test,4.0
+P45,Lexical agency,Pre-test,1.65
+P45,Lexical agency,Post-test,2.78
+P45,Voice consistency,Pre-test,1.96
+P45,Voice consistency,Post-test,2.65
+P45,Critical dialogue,Pre-test,2.33
+P45,Critical dialogue,Post-test,4.0
+P46,Prompting density,Pre-test,2.4
+P46,Prompting density,Post-test,5.7
+P46,Mean prompt length,Pre-test,20.2
+P46,Mean prompt length,Post-test,49.8
+P46,AI-suggestion rejection rate,Pre-test,21.2
+P46,AI-suggestion rejection rate,Post-test,57.6
+P46,Stance marking,Pre-test,2.01
+P46,Stance marking,Post-test,1.53
+P46,Lexical agency,Pre-test,1.03
+P46,Lexical agency,Post-test,1.0
+P46,Voice consistency,Pre-test,2.05
+P46,Voice consistency,Post-test,2.16
+P46,Critical dialogue,Pre-test,1.0
+P46,Critical dialogue,Post-test,3.05
+P47,Prompting density,Pre-test,2.0
+P47,Prompting density,Post-test,7.5
+P47,Mean prompt length,Pre-test,9.2
+P47,Mean prompt length,Post-test,58.5
+P47,AI-suggestion rejection rate,Pre-test,18.7
+P47,AI-suggestion rejection rate,Post-test,67.9
+P47,Stance marking,Pre-test,2.08
+P47,Stance marking,Post-test,3.23
+P47,Lexical agency,Pre-test,1.97
+P47,Lexical agency,Post-test,4.0
+P47,Voice consistency,Pre-test,1.72
+P47,Voice consistency,Post-test,2.53
+P47,Critical dialogue,Pre-test,1.0
+P47,Critical dialogue,Post-test,3.89
+P48,Prompting density,Pre-test,1.2
+P48,Prompting density,Post-test,5.2
+P48,Mean prompt length,Pre-test,23.1
+P48,Mean prompt length,Post-test,63.9
+P48,AI-suggestion rejection rate,Pre-test,11.8
+P48,AI-suggestion rejection rate,Post-test,63.1
+P48,Stance marking,Pre-test,2.49
+P48,Stance marking,Post-test,3.4
+P48,Lexical agency,Pre-test,2.23
+P48,Lexical agency,Post-test,2.11
+P48,Voice consistency,Pre-test,2.09
+P48,Voice consistency,Post-test,3.04
+P48,Critical dialogue,Pre-test,1.16
+P48,Critical dialogue,Post-test,4.0
+P49,Prompting density,Pre-test,2.4
+P49,Prompting density,Post-test,6.4
+P49,Mean prompt length,Pre-test,12.4
+P49,Mean prompt length,Post-test,47.5
+P49,AI-suggestion rejection rate,Pre-test,15.0
+P49,AI-suggestion rejection rate,Post-test,78.0
+P49,Stance marking,Pre-test,3.39
+P49,Stance marking,Post-test,3.89
+P49,Lexical agency,Pre-test,1.77
+P49,Lexical agency,Post-test,1.43
+P49,Voice consistency,Pre-test,2.37
+P49,Voice consistency,Post-test,3.31
+P49,Critical dialogue,Pre-test,1.77
+P49,Critical dialogue,Post-test,3.68
+P50,Prompting density,Pre-test,3.4
+P50,Prompting density,Post-test,6.7
+P50,Mean prompt length,Pre-test,4.5
+P50,Mean prompt length,Post-test,21.6
+P50,AI-suggestion rejection rate,Pre-test,10.7
+P50,AI-suggestion rejection rate,Post-test,46.6
+P50,Stance marking,Pre-test,1.73
+P50,Stance marking,Post-test,3.35
+P50,Lexical agency,Pre-test,3.03
+P50,Lexical agency,Post-test,3.53
+P50,Voice consistency,Pre-test,1.87
+P50,Voice consistency,Post-test,2.87
+P50,Critical dialogue,Pre-test,1.08
+P50,Critical dialogue,Post-test,1.0
+P51,Prompting density,Pre-test,3.0
+P51,Prompting density,Post-test,8.4
+P51,Mean prompt length,Pre-test,9.2
+P51,Mean prompt length,Post-test,37.0
+P51,AI-suggestion rejection rate,Pre-test,17.1
+P51,AI-suggestion rejection rate,Post-test,66.1
+P51,Stance marking,Pre-test,1.65
+P51,Stance marking,Post-test,1.88
+P51,Lexical agency,Pre-test,1.28
+P51,Lexical agency,Post-test,3.52
+P51,Voice consistency,Pre-test,2.29
+P51,Voice consistency,Post-test,3.55
+P51,Critical dialogue,Pre-test,1.0
+P51,Critical dialogue,Post-test,3.79
+P52,Prompting density,Pre-test,2.5
+P52,Prompting density,Post-test,3.2
+P52,Mean prompt length,Pre-test,12.5
+P52,Mean prompt length,Post-test,51.9
+P52,AI-suggestion rejection rate,Pre-test,18.9
+P52,AI-suggestion rejection rate,Post-test,77.6
+P52,Stance marking,Pre-test,1.89
+P52,Stance marking,Post-test,3.26
+P52,Lexical agency,Pre-test,2.26
+P52,Lexical agency,Post-test,3.57
+P52,Voice consistency,Pre-test,1.82
+P52,Voice consistency,Post-test,1.47
+P52,Critical dialogue,Pre-test,1.38
+P52,Critical dialogue,Post-test,1.0
+P53,Prompting density,Pre-test,2.8
+P53,Prompting density,Post-test,3.5
+P53,Mean prompt length,Pre-test,4.7
+P53,Mean prompt length,Post-test,50.5
+P53,AI-suggestion rejection rate,Pre-test,11.9
+P53,AI-suggestion rejection rate,Post-test,54.7
+P53,Stance marking,Pre-test,2.19
+P53,Stance marking,Post-test,3.39
+P53,Lexical agency,Pre-test,1.0
+P53,Lexical agency,Post-test,2.71
+P53,Voice consistency,Pre-test,3.01
+P53,Voice consistency,Post-test,2.74
+P53,Critical dialogue,Pre-test,2.09
+P53,Critical dialogue,Post-test,4.0
+P54,Prompting density,Pre-test,3.0
+P54,Prompting density,Post-test,4.7
+P54,Mean prompt length,Pre-test,11.4
+P54,Mean prompt length,Post-test,21.1
+P54,AI-suggestion rejection rate,Pre-test,16.9
+P54,AI-suggestion rejection rate,Post-test,81.1
+P54,Stance marking,Pre-test,1.81
+P54,Stance marking,Post-test,2.59
+P54,Lexical agency,Pre-test,2.37
+P54,Lexical agency,Post-test,4.0
+P54,Voice consistency,Pre-test,2.34
+P54,Voice consistency,Post-test,3.09
+P54,Critical dialogue,Pre-test,1.2
+P54,Critical dialogue,Post-test,3.26
+P55,Prompting density,Pre-test,3.4
+P55,Prompting density,Post-test,6.9
+P55,Mean prompt length,Pre-test,10.1
+P55,Mean prompt length,Post-test,56.8
+P55,AI-suggestion rejection rate,Pre-test,10.7
+P55,AI-suggestion rejection rate,Post-test,72.5
+P55,Stance marking,Pre-test,2.44
+P55,Stance marking,Post-test,3.5
+P55,Lexical agency,Pre-test,2.13
+P55,Lexical agency,Post-test,2.07
+P55,Voice consistency,Pre-test,1.86
+P55,Voice consistency,Post-test,2.83
+P55,Critical dialogue,Pre-test,2.67
+P55,Critical dialogue,Post-test,4.0
+P56,Prompting density,Pre-test,3.1
+P56,Prompting density,Post-test,3.6
+P56,Mean prompt length,Pre-test,9.1
+P56,Mean prompt length,Post-test,40.4
+P56,AI-suggestion rejection rate,Pre-test,13.4
+P56,AI-suggestion rejection rate,Post-test,54.9
+P56,Stance marking,Pre-test,2.71
+P56,Stance marking,Post-test,2.52
+P56,Lexical agency,Pre-test,1.12
+P56,Lexical agency,Post-test,2.57
+P56,Voice consistency,Pre-test,3.05
+P56,Voice consistency,Post-test,3.55
+P56,Critical dialogue,Pre-test,1.56
+P56,Critical dialogue,Post-test,3.59
+P57,Prompting density,Pre-test,4.0
+P57,Prompting density,Post-test,5.9
+P57,Mean prompt length,Pre-test,9.8
+P57,Mean prompt length,Post-test,51.9
+P57,AI-suggestion rejection rate,Pre-test,16.1
+P57,AI-suggestion rejection rate,Post-test,65.8
+P57,Stance marking,Pre-test,1.54
+P57,Stance marking,Post-test,3.25
+P57,Lexical agency,Pre-test,1.22
+P57,Lexical agency,Post-test,2.67
+P57,Voice consistency,Pre-test,1.15
+P57,Voice consistency,Post-test,2.21
+P57,Critical dialogue,Pre-test,1.1
+P57,Critical dialogue,Post-test,3.6
+P58,Prompting density,Pre-test,3.3
+P58,Prompting density,Post-test,7.8
+P58,Mean prompt length,Pre-test,8.8
+P58,Mean prompt length,Post-test,36.1
+P58,AI-suggestion rejection rate,Pre-test,18.8
+P58,AI-suggestion rejection rate,Post-test,72.0
+P58,Stance marking,Pre-test,3.22
+P58,Stance marking,Post-test,3.72
+P58,Lexical agency,Pre-test,1.52
+P58,Lexical agency,Post-test,3.07
+P58,Voice consistency,Pre-test,2.12
+P58,Voice consistency,Post-test,3.0
+P58,Critical dialogue,Pre-test,1.14
+P58,Critical dialogue,Post-test,2.92
+P59,Prompting density,Pre-test,1.3
+P59,Prompting density,Post-test,5.6
+P59,Mean prompt length,Pre-test,12.8
+P59,Mean prompt length,Post-test,45.2
+P59,AI-suggestion rejection rate,Pre-test,11.7
+P59,AI-suggestion rejection rate,Post-test,61.4
+P59,Stance marking,Pre-test,1.42
+P59,Stance marking,Post-test,1.16
+P59,Lexical agency,Pre-test,1.0
+P59,Lexical agency,Post-test,2.87
+P59,Voice consistency,Pre-test,3.13
+P59,Voice consistency,Post-test,3.56
+P59,Critical dialogue,Pre-test,1.0
+P59,Critical dialogue,Post-test,1.0
+P60,Prompting density,Pre-test,2.6
+P60,Prompting density,Post-test,3.9
+P60,Mean prompt length,Pre-test,13.1
+P60,Mean prompt length,Post-test,34.0
+P60,AI-suggestion rejection rate,Pre-test,14.5
+P60,AI-suggestion rejection rate,Post-test,48.4
+P60,Stance marking,Pre-test,2.47
+P60,Stance marking,Post-test,3.08
+P60,Lexical agency,Pre-test,2.37
+P60,Lexical agency,Post-test,4.0
+P60,Voice consistency,Pre-test,2.95
+P60,Voice consistency,Post-test,3.75
+P60,Critical dialogue,Pre-test,1.8
+P60,Critical dialogue,Post-test,4.0
+P61,Prompting density,Pre-test,3.2
+P61,Prompting density,Post-test,7.8
+P61,Mean prompt length,Pre-test,11.5
+P61,Mean prompt length,Post-test,45.3
+P61,AI-suggestion rejection rate,Pre-test,17.3
+P61,AI-suggestion rejection rate,Post-test,55.7
+P61,Stance marking,Pre-test,2.33
+P61,Stance marking,Post-test,3.67
+P61,Lexical agency,Pre-test,1.93
+P61,Lexical agency,Post-test,1.98
+P61,Voice consistency,Pre-test,2.68
+P61,Voice consistency,Post-test,4.0
+P61,Critical dialogue,Pre-test,1.23
+P61,Critical dialogue,Post-test,3.34
+P62,Prompting density,Pre-test,2.4
+P62,Prompting density,Post-test,8.2
+P62,Mean prompt length,Pre-test,12.3
+P62,Mean prompt length,Post-test,60.7
+P62,AI-suggestion rejection rate,Pre-test,18.9
+P62,AI-suggestion rejection rate,Post-test,95.6
+P62,Stance marking,Pre-test,3.35
+P62,Stance marking,Post-test,3.02
+P62,Lexical agency,Pre-test,2.84
+P62,Lexical agency,Post-test,4.0
+P62,Voice consistency,Pre-test,2.18
+P62,Voice consistency,Post-test,3.5
+P62,Critical dialogue,Pre-test,1.3
+P62,Critical dialogue,Post-test,3.17
+P63,Prompting density,Pre-test,1.4
+P63,Prompting density,Post-test,8.1
+P63,Mean prompt length,Pre-test,13.2
+P63,Mean prompt length,Post-test,59.4
+P63,AI-suggestion rejection rate,Pre-test,22.0
+P63,AI-suggestion rejection rate,Post-test,65.6
+P63,Stance marking,Pre-test,1.87
+P63,Stance marking,Post-test,3.15
+P63,Lexical agency,Pre-test,1.9
+P63,Lexical agency,Post-test,3.54
+P63,Voice consistency,Pre-test,2.82
+P63,Voice consistency,Post-test,4.0
+P63,Critical dialogue,Pre-test,1.02
+P63,Critical dialogue,Post-test,3.55
+P64,Prompting density,Pre-test,2.5
+P64,Prompting density,Post-test,6.3
+P64,Mean prompt length,Pre-test,14.3
+P64,Mean prompt length,Post-test,55.6
+P64,AI-suggestion rejection rate,Pre-test,14.2
+P64,AI-suggestion rejection rate,Post-test,72.3
+P64,Stance marking,Pre-test,2.24
+P64,Stance marking,Post-test,3.43
+P64,Lexical agency,Pre-test,2.65
+P64,Lexical agency,Post-test,4.0
+P64,Voice consistency,Pre-test,2.65
+P64,Voice consistency,Post-test,3.94
+P64,Critical dialogue,Pre-test,2.49
+P64,Critical dialogue,Post-test,4.0
+P65,Prompting density,Pre-test,2.1
+P65,Prompting density,Post-test,6.0
+P65,Mean prompt length,Pre-test,12.9
+P65,Mean prompt length,Post-test,37.8
+P65,AI-suggestion rejection rate,Pre-test,24.7
+P65,AI-suggestion rejection rate,Post-test,67.0
+P65,Stance marking,Pre-test,2.51
+P65,Stance marking,Post-test,3.55
+P65,Lexical agency,Pre-test,2.57
+P65,Lexical agency,Post-test,4.0
+P65,Voice consistency,Pre-test,2.86
+P65,Voice consistency,Post-test,3.69
+P65,Critical dialogue,Pre-test,1.0
+P65,Critical dialogue,Post-test,1.06
+P66,Prompting density,Pre-test,1.0
+P66,Prompting density,Post-test,4.3
+P66,Mean prompt length,Pre-test,19.5
+P66,Mean prompt length,Post-test,50.1
+P66,AI-suggestion rejection rate,Pre-test,11.0
+P66,AI-suggestion rejection rate,Post-test,31.7
+P66,Stance marking,Pre-test,2.72
+P66,Stance marking,Post-test,3.22
+P66,Lexical agency,Pre-test,1.85
+P66,Lexical agency,Post-test,3.44
+P66,Voice consistency,Pre-test,1.58
+P66,Voice consistency,Post-test,1.0
+P66,Critical dialogue,Pre-test,1.2
+P66,Critical dialogue,Post-test,3.84
+P67,Prompting density,Pre-test,2.4
+P67,Prompting density,Post-test,8.5
+P67,Mean prompt length,Pre-test,18.9
+P67,Mean prompt length,Post-test,46.0
+P67,AI-suggestion rejection rate,Pre-test,19.3
+P67,AI-suggestion rejection rate,Post-test,100.0
+P67,Stance marking,Pre-test,2.08
+P67,Stance marking,Post-test,3.02
+P67,Lexical agency,Pre-test,2.38
+P67,Lexical agency,Post-test,4.0
+P67,Voice consistency,Pre-test,2.88
+P67,Voice consistency,Post-test,2.98
+P67,Critical dialogue,Pre-test,1.63
+P67,Critical dialogue,Post-test,3.79
+P68,Prompting density,Pre-test,3.3
+P68,Prompting density,Post-test,7.6
+P68,Mean prompt length,Pre-test,7.8
+P68,Mean prompt length,Post-test,44.3
+P68,AI-suggestion rejection rate,Pre-test,23.0
+P68,AI-suggestion rejection rate,Post-test,60.4
+P68,Stance marking,Pre-test,3.26
+P68,Stance marking,Post-test,3.76
+P68,Lexical agency,Pre-test,1.64
+P68,Lexical agency,Post-test,2.91
+P68,Voice consistency,Pre-test,1.65
+P68,Voice consistency,Post-test,2.79
+P68,Critical dialogue,Pre-test,1.59
+P68,Critical dialogue,Post-test,4.0
+P69,Prompting density,Pre-test,3.0
+P69,Prompting density,Post-test,5.1
+P69,Mean prompt length,Pre-test,7.7
+P69,Mean prompt length,Post-test,50.6
+P69,AI-suggestion rejection rate,Pre-test,24.3
+P69,AI-suggestion rejection rate,Post-test,75.7
+P69,Stance marking,Pre-test,1.5
+P69,Stance marking,Post-test,1.25
+P69,Lexical agency,Pre-test,1.67
+P69,Lexical agency,Post-test,3.13
+P69,Voice consistency,Pre-test,1.43
+P69,Voice consistency,Post-test,3.06
+P69,Critical dialogue,Pre-test,1.42
+P69,Critical dialogue,Post-test,3.38
+P70,Prompting density,Pre-test,3.0
+P70,Prompting density,Post-test,7.8
+P70,Mean prompt length,Pre-test,7.9
+P70,Mean prompt length,Post-test,29.0
+P70,AI-suggestion rejection rate,Pre-test,14.5
+P70,AI-suggestion rejection rate,Post-test,51.5
+P70,Stance marking,Pre-test,1.65
+P70,Stance marking,Post-test,1.31
+P70,Lexical agency,Pre-test,2.21
+P70,Lexical agency,Post-test,4.0
+P70,Voice consistency,Pre-test,2.19
+P70,Voice consistency,Post-test,3.14
+P70,Critical dialogue,Pre-test,1.85
+P70,Critical dialogue,Post-test,4.0
